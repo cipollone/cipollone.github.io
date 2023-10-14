@@ -14,8 +14,11 @@ news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
+
+# TODO: about me; publications icons; posts.
 ---
 
-About me. TODO.
+Sectino about me: TODO.
 
-This small website is just a preview! Do no hesitate to ask my CV at <a href='mailto:cipollone.rt@gmail.com'>cipollone.rt@gmail.com</a>.
+This small website is just a preview. Do no hesitate to ask my CV at my personal email: <a href='mailto:cipollone.rt@gmail.com'>cipollone.rt@gmail.com</a>.
+
