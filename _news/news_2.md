@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2023-09-30
+inline: true
+related_posts: false
+---
+
+I was at ECAI 2023 in Kraków, Poland!

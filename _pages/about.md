@@ -17,3 +17,5 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 About me. TODO.
+
+This small website is just a preview! Do no hesitate to ask my CV at <a href='mailto:cipollone.rt@gmail.com'>cipollone.rt@gmail.com</a>.

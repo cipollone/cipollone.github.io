@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2023-09-14
+inline: true
+related_posts: false
+---
+
+I was at the EWRL 2023 workshop in Brussels, Belgium!
