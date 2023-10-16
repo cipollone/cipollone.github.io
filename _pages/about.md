@@ -14,11 +14,23 @@ news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
-
-# TODO: about me; publications icons; posts.
 ---
 
-Sectino about me: TODO.
+I am a 3rd year PhD candidate in Engineering in Computer Science, at La Sapienza University of Rome.
+I am working in the <a href='https://whitemech.github.io/'>WhiteMech</a> research group with Giuseppe De Giacomo.
+In 2020, I graduated in Master of Science in Artificial Intelligence and Robotics, and I've previously completed a Bachelor of Computer and System Engineering at the same university.
 
-This small website is just a preview. Do no hesitate to ask my CV at my personal email: <a href='mailto:cipollone.rt@gmail.com'>cipollone.rt@gmail.com</a>.
+My PhD research mainly focuses on <em>Reinforcement Learning</em>. Specifically:
+<ul>
+    <li>
+        learning in non-Markovian and history-dependent environments;
+    </li>
+    <li>
+        hierarchical Reinforcement Learning and state-actions abstractions.
+    </li>
+</ul>
+My background also covers other areas of Machine Learning and Formal Methods.
+
+I have been TA for both Master's and Bachelor's courses. I have been reviewer for many AI conferences.
+This small website is just a preview. Contact me at my personal email <a href='mailto:cipollone.rt@gmail.com'>cipollone.rt@gmail.com</a> for a full CV.
 
