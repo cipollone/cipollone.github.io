@@ -2,7 +2,7 @@
 layout: post
 title: Master thesis
 date: 2020-08-01
-description: New paper accepted at NeurIPS 2023
+description: Master thesis post
 tags: thesis neurosymbolic pdf
 categories: 
 thumbnail: assets/pdf/master-thesis-thumb.png
